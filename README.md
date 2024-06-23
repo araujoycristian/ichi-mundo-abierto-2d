@@ -2,6 +2,14 @@
 
 ![Ichi Banner](https://via.placeholder.com/800x200?text=Ichi+-+Mundo+Abierto+2D)
 
+## 🌐 Juega Ahora
+
+¡Puedes jugar la versión más reciente de Ichi - Mundo Abierto 2D directamente en tu navegador!
+
+[🎮 Jugar Ichi](https://araujoycristian.github.io/ichi-mundo-abierto-2d/)
+
+Esta versión se actualiza automáticamente con cada cambio en la rama principal del repositorio.
+
 ## 🌟 Visión del Proyecto
 
 Ichi - Mundo Abierto 2D es más que un simple juego; es una aventura en evolución que fusiona la creatividad humana con la potencia de la IA. Nuestro objetivo es crear un universo 2D vibrante y dinámico, donde cada jugador pueda forjar su propia historia única.
